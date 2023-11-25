@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Continual Learning in LLMs**, **Large Multi-Modal Model**, and **Applications of LLMs (e.g., Science)**.
 
-- 👯 <font color="red">**I am looking for cooperation. Contact me if you are interested in the above topics.**</font>
+- 👯 <font color="red"> I am **looking for cooperation**. Contact me if you are interested in the above topics.</font>
 
-- 👋 <font color="red">**I am actively seeking a postdoctoral position as well. If you are interested in my [profile](https://bladedancer957.github.io/), please feel free to contact me and let me know.**</font>
+- 👋 <font color="red"> I am actively **seeking a postdoctoral position** as well. If you are interested in my [profile](https://bladedancer957.github.io/), please feel free to contact me and let me know.</font>
 
 - 📫 How to reach me **bladedancer957@gmail.com or zhangduzhen2019@ia.ac.cn**.
 
