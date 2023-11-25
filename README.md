@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<a href="https://blog.csdn.net/sdu_hao">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BladeDancer957&show_icons=true&theme=radical"/>
+</a>
+</p>
+
+
