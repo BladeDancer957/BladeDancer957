@@ -31,7 +31,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://weibo.com/u/6984959147" target="blank"><img align="center" src="" alt="xxxx" height="30" width="30" /></a>
+<a href="https://weibo.com/u/6984959147" target="blank"><img align="center" src="2c86e7f64d055dce22d0a8bf5fd8a3a0.jpeg" alt="xxxx" height="30" width="30" /></a>
 </p>
 
 
