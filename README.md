@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zhang Duzhen.</h1>
 <h3 align="center">A Ph.D Candidate at Institute of Automation, Chinese Academy of Sciences.</h3>
 
-- 🔭 I’m currently working on **Continual Learning in LLM**, **Large Multi-Modal Model**, and **LLM and Its Application (e.g., Science)**
+- 🔭 I’m currently working on **Continual Learning in LLMs**, **Large Multi-Modal Model**, and **Applications of LLMs (e.g., Science)**
 
-- 👯 I’m looking to collaborate on **Continual Learning in LLM**.
+- 👯 I’m looking to collaborate on **Continual Learning in LLMs**.
 
 - 📫 How to reach me **bladedancer957@gmail.com or zhangduzhen2019@ia.ac.cn**
 
