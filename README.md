@@ -34,8 +34,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://weibo.com/u/6984959147" target="blank"><img align="center" src="2c86e7f64d055dce22d0a8bf5fd8a3a0.jpeg" alt="xxxx" height="30" width="30" /></a>
+ <!-- 
 <a href="https://www.xiaohongshu.com/user/profile/5d3ecbf30000000011005f67" target="blank"><img align="center" src="ce948519fed397f95422085e28af9af7.jpeg.png" alt="sssssss" height="30" width="30" /></a>
-<a href="WechatIMG43.jpeg" target="blank"><img align="center" src="1b18237ef89a22cdf1cfd6f61e7799f0.jpg" alt="ssss" height="30" width="30" /></a>
+<a href="WechatIMG43.jpeg" target="blank"><img align="center" src="1b18237ef89a22cdf1cfd6f61e7799f0.jpg" alt="ssss" height="30" width="30" /></a> -->
 </p>
 
 
